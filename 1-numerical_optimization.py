@@ -1,0 +1,1 @@
+# Gradient Descent, Newton Descent, Conjugate Descent
